@@ -8,16 +8,16 @@
 
 <ul>
 	<li>
-	<h2><em>pandas</em>&nbsp;</h2>
+	<h2><em>Pandas</em>&nbsp;</h2>
 	</li>
 	<li>
-	<h2><em>xlwings</em></h2>
+	<h2><em>Xlwings</em></h2>
 	</li>
 	<li>
-	<h2><em>Sel&ecirc;nio</em>&nbsp;</h2>
+	<h2><em>Selenium</em></h2>
 	</li>
 	<li>
-	<h2>&nbsp;<em>bela sopa</em></h2>
+	<h2>&nbsp;&nbsp;<em>Beautifulsoup</em></h2>
 	</li>
 </ul>
 
